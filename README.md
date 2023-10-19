@@ -1,12 +1,7 @@
-**W&D Lead Fullstack Engineering Challenge**
-
-Welcome to our Lead Fullstack Engineering Challenge repository. This document will guide you through the challenge. Please fork this repo before you begin, as we will evaluate the code on your fork.
-
-**Challenge Overview:**
+**Project Overview:**
 
 Design and implement a system that allows users to manage their personal property list. Users should be able to sign up, log in, and then add or remove properties to/from their property list.
 
-**Requirements:**
 
 1. **User Authentication**:
     - Implement a basic login and sign-up page.
@@ -43,6 +38,6 @@ Design and implement a system that allows users to manage their personal propert
 6. **Documentation**:
     - Provide a brief README detailing how to set up and run your application.
   
-7. **Bonus**:
+7. **Extra**:
     - **Optimization**: Propose at least one optimization that can help the application perform better under increased data loads.
     - **Additional Feature**: Propose a feature you believe would enhance the user's experience while managing their property list.
